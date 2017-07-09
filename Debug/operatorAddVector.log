@@ -1,0 +1,10 @@
+﻿  operatorAddVector.cpp
+c:\users\karol\desktop\nowe repo\operatoraddvector\operatoraddvector\operatoraddvector.cpp(17): warning C4018: '<': signed/unsigned mismatch
+  c:\users\karol\desktop\nowe repo\operatoraddvector\operatoraddvector\operatoraddvector.cpp(28): note: see reference to function template instantiation 'std::vector<int,std::allocator<_Ty>> operator +<std::vector<_Ty,std::allocator<_Ty>>>(T &&,T &&)' being compiled
+          with
+          [
+              _Ty=int,
+              T=std::vector<int,std::allocator<int>>
+          ]
+  operatorAddVector.vcxproj -> C:\Users\Karol\Desktop\nowe repo\operatorAddVector\Debug\operatorAddVector.exe
+  operatorAddVector.vcxproj -> C:\Users\Karol\Desktop\nowe repo\operatorAddVector\Debug\operatorAddVector.pdb (Full PDB)
